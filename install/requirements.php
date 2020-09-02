@@ -139,7 +139,7 @@ if ($url_f_open != '1'
 	</tbody>
 </table>
 <hr />
-<?php if ($error == true) {
+<?php if ($error == false) {
     echo '<button type="submit" class="btn btn-success">Go to files/folders permissions</button>';
 } else {
     echo '<div class="text-center">';
