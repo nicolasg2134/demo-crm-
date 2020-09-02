@@ -140,7 +140,7 @@ if ($url_f_open != '1'
 </table>
 <hr />
 <?php if ($error == true) {
-    echo '<div class="text-center alert alert-danger">You need to fix the requirements in order to continue installing Perfex CRM</div>';
+    echo '<button type="submit" class="btn btn-success">Go to files/folders permissions</button>';
 } else {
     echo '<div class="text-center">';
     echo '<form action="" method="post" accept-charset="utf-8">';
