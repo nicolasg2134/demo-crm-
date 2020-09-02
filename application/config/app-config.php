@@ -38,19 +38,19 @@ define('APP_ENC_KEY', '[encryption_key]');
  * Database Credentials
  * The hostname of your database server
  */
-define('APP_DB_HOSTNAME', '167.71.157.246');
+define('APP_DB_HOSTNAME', 'fojvtycq53b2f2kx.chr7pe7iynqr.eu-west-1.rds.amazonaws.com');
 /**
- * The username used to connect to the database
+ * The username used to cont to the database
  */
-define('APP_DB_USERNAME', 'tfnagtkwft');
+define('APP_DB_USERNAME', 's1x7srni37p37yfz');
 /**
  * The password used to connect to the database
  */
-define('APP_DB_PASSWORD', 'F66HuUaBxC');
+define('APP_DB_PASSWORD', 'knzm5if72zkpd1ym');
 /**
  * The name of the database you want to connect to
  */
-define('APP_DB_NAME', 'tfnagtkwft');
+define('APP_DB_NAME', 'ruld3ucf9tk1xaic');
 
 /**
  * @since  2.3.0
